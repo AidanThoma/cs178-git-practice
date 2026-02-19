@@ -3,3 +3,5 @@ Name: Aidan Thoma
 My favorite color is: Red
 
 My favorite animal is: A Cat
+
+Test: This is another example
