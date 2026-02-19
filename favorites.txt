@@ -5,3 +5,5 @@ My favorite color is: Red
 My favorite animal is: A Cat
 
 Test: This is another example
+
+Test2: This is another example from my EC2 instance!
